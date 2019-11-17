@@ -1,0 +1,1 @@
+Right now, this code simply consists of most variables and some of the necessary formulas. I also tried to reverse engineer the pressure to get aome references for the simplified version, but ran into a bug, where the output is infinity. Unfortunately I haven't tried to fix it yet. If you want more info on this project, read the ReadMe from the previous folder.

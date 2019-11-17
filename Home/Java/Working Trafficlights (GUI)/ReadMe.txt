@@ -1,6 +1,1 @@
-This is the program I first started when we were working with GUIs at school. After I had a somewhat working code, the task was finished.
-But I wanted to make this code my new template and naturally that meant improving the code in such a way, that it would be useable as a
-reference. At first there was one traffic light. But I later added 3 more and syncronised them via a timer. Everytime I made a notable
-breakthrough, I asked my teacher for feedback. This ended up being very helpful to better understand the concept of object oriented 
-programing and I managed to make a fully functioning crossroads of traffic lights. I had the GUI exam during my time with this project 
-and later used some of the feedback from the exam to further improve it.
+This is the program I first started when we were working with GUIs at school. After I had a somewhat working code, the task was finished. But I wanted to make this code my new template and naturally that meant improving the code in such a way, that it would be useable as a reference. At first there was one traffic light. But I later added 3 more and syncronised them via a timer. Everytime I made a notable breakthrough, I asked my teacher for feedback. This ended up being very helpful to better understand the concept of object oriented programing and I managed to make a fully functioning crossroads of traffic lights. I had the GUI exam during my time with this project and later used some of the feedback from the exam to further improve it.
