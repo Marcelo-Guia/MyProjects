@@ -1,0 +1,4 @@
+id;name;health;stamina;damagemultiplier
+0;Normie;100.0;100.0;1.0
+1;Mr. Tank;110.0;90.0;0.8
+2;Glassy;95.0;100.0;1.2

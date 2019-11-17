@@ -1,0 +1,10 @@
+id;name;description;actiondescription
+0;Faustkampf;Ein Angriff, welches 10 Schaden basis macht. Treffsicherheit von 50%.; hat ein Angriff mit einem Basisschaden von 10 durchgeführt.; hat versucht sein Gegner zu schlagen, hat aber die Luft getroffen...;10;0;-10;5;Alle;50
+1;Warten;Wer weiss, vielleicht passiert etwas interessantes...; hat abgewartet, bis sein Gegner ein Herzinfarkt erlitt...; hat auf ein Wunder gewartet, aber nichts ist passiert...;2000;0;20;0;Alle;1
+2;Selbstheilung;Versuche dich selbst für eine Basis-HP von 30 zu heilen. 30% Erfolgsrate.; hat sich für eine Basis-HP von 30 geheilt.; hat versucht sich zu heilen, ist aber dafür zu inkompetent...;0;30;-10;0;Alle;30
+3;Volle Power!;Basisschaden von 75. 10% Treffsicherheit.; hat sein Gegner mit volle Power geschlagen und 75 Basisschaden gemacht.; hat viel Power in einem nutzlosen Angriff investiert und 40 Ausdauer verschwendet...;75;0;-40;30;Glasscannon;10
+4;Headbutt;Basisschaden von 30. 40% Treffsicherheit; hat sein Gegner mit voller Kraft den Kopf eingeschlagen und 30 Basisschaden angerichtet.; hat ein Headbutt versucht, aber ist gegen die Wand gerannt...;30;0;-20;20;Glasscannon;40
+5;Medikit;Basisheilung von 50. 50% Erfolgsicherheit; hat ein Medikit angewendet und sich für 50 HP geheilt.; hat ein Medikit versucht anzuwenden, aber hat keine Ahnung was er macht...;0;50;-20;0;Mr. Tank;50
+6;Fette Faust;Basisschaden von 30. 40% Treffsicherheit; hat sein Gegner mit seiner Fetten Faust in den Magen geschlagen und 30 Basisschaden angerichtet.; hat seine Fette Faust aufgelüpft und konnte sie nicht hochhalten. 50 Ausdauer verloren...;30;0;-50;20;Mr. Tank;40
+7;Kick;Basisschaden von 20. 60% Treffsicherheit; hat sein Gegner im Hintern getretten und 20 Basisschaden angerichtet.; hat ein Tritt versucht, aber hat ein Stein gekickt...;20;0;-20;20;Normie;60
+8;Jack of all trades;Basisschaden von 20. Heilung von 20. 30% Treffsicherheit; hat sein Gegner ins gesicht geschlagen und seine Wunden geheilt.; hat versucht zu Multitasking, hat aber keine Ahnung wie das geht...;20;20;-30;20;Normie;30
